@@ -1,0 +1,6 @@
+.pixelsArea{
+	width: 1000px;
+    height: 1000px;
+    background-image: url('bg.png');
+    vertical-align: top;
+}
